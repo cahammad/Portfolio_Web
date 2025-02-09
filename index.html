@@ -1,0 +1,141 @@
+<html>
+    <head>
+        <title>Hammad Muslim</title>
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/timeline.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playwrite+IT+Moderna:wght@100..400&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Playwrite+IT+Moderna:wght@100..400&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div>
+          <ul class="ul-menu"> 
+            <li class="li-menu"><a class="a-menu" href="index.html">CV</a></li>
+            <li class="li-menu"><a class="a-menu" href="projects.html">My Projects</a></li>
+            <p class="title-menu">Hammad Muslim</p>
+          </ul>
+        </div>
+        <div id="row1" class="row">
+          <div class="column">
+            <h1> hello </h1>
+            <img src="Images/profile2.jpg" class="profile" />
+            <p> About Me </p>
+            <div>
+              <a target="_blank" href="https://www.instagram.com/hamm29_"><img src="Images/inst.png" calss="social" /></a>
+              <a target="_blank" href="https://www.linkedin.com/in/hammad-hammad-29598b293/"><img src="Images/linkedin.png" calss="social" /></a>
+              <a target="_blank" href="https://x.com/cs_hammad"><img src="Images/twitter.png" calss="social" /></a>
+              <a target="_blank" href="https://github.com/cahammad"><img src="Images/github.png" calss="social" /></a>
+            </div>
+          </div>
+          <div class="column">
+            <h1> Skills</h1>
+            <div id="skill1" class="row">
+              <div class="left" >Java</div>
+              <div class="right">
+                <li>
+                  <span class="main-bar">
+                    <span class="Java">30%</span>
+                  </span>
+                </li>
+              </div>
+            </div>
+            <div id="skill2" class="row">
+              <div class="left" >HTML</div>
+              <div class="right">
+                <li>
+                  <span class="main-bar">
+                    <span class="HTML">20%</span>
+                  </span>
+                </li>
+              </div>
+            </div>
+            <div id="skill3" class="row">
+              <div class="left" >CSS</div>
+              <div class="right">
+                <li>
+                  <span class="main-bar">
+                    <span class="CSS">10%</span>
+                  </span>
+                </li>
+              </div>
+            </div>
+            <div id="skill4" class="row">
+              <div class="left" >Photoshop</div>
+              <div class="right">
+                <li>
+                  <span class="main-bar">
+                    <span class="Photoshop">40%</span>
+                  </span>
+                </li>
+              </div>
+            </div>
+            <div id="skill5" class="row">
+              <div class="left" >Premiere</div>
+              <div class="right">
+                <li>
+                  <span class="main-bar">
+                    <span class="Premiere">5%</span>
+                  </span>
+                </li>
+              </div>
+            </div>
+            <div id="skill6" class="row">
+              <div class="left" >GitHub</div>
+              <div class="right">
+                <li>
+                  <span class="main-bar">
+                    <span class="GitHub">0%</span>
+                  </span>
+                </li>
+              </div>
+            </div>
+            <div id="skill7" class="row">
+              <div class="left" >Web Design</div>
+              <div class="right">
+                <li>
+                  <span class="main-bar">
+                    <span class="Web-Design">0%</span>
+                  </span>
+                </li>
+              </div>
+            </div>
+          </div>
+        </div>
+        <hr/>
+        <h1 style="text-align: center;">My Experience</h1>
+        <div class="timeline">
+          <div class="container left=timeline">
+            <div class="content">
+              <h2>2029</h2>
+              <p>My journey this year</p>
+            </div>
+          </div>
+          <div class="container right-timeline">
+            <div class="content">
+              <h2>2026</h2>
+              <p>Lorem ipsum..</p>
+            </div>
+          </div>
+        </div>
+        <div class="timeline">
+          <div class="container left=timeline">
+            <div class="content">
+              <h2>2025</h2>
+              <p>My journey this year</p>
+            </div>
+          </div>
+          <div class="container right-timeline">
+            <div class="content">
+              <h2>2022</h2>
+              <p>Lorem ipsum..</p>
+            </div>
+          </div>
+        </div>
+        <div>
+          <p class="footer">All rights reserved for Hammad</p>
+        </div>
+    </body>
+</html>
